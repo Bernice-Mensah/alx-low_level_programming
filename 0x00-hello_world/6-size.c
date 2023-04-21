@@ -1,6 +1,7 @@
  #include <stdio.h>
 /**
  * main - A program that prints the size of various types computer types
+ *
  * description - program that prints the size of various types computer
  * Return 0 (Success)
  */
